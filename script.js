@@ -13,3 +13,9 @@ const wowDatatypes = [5], [Hi], [];
 console.log(wowDatatypes[0]);
 console.log(wowDatatypes[1]);
 console.log(wowDatatypes[2]);
+
+var hello = function(){
+    return 'Hello world!';
+}
+console.log(hello);
+
