@@ -1,8 +1,8 @@
 var myAlphabet = ['A', 'B', 'C', 'D','E','F', 'G'];
-function myAlphabetLength(myAlphabet){
-    console.log(myAlphabetLength.length);
+function myAlphabetLength(){
+    console.log(myAlphabet.length);
 }
-
+ myAlphabetLength();
 
 let Planets = ['Mercury', 'Earth', 'Mars', 'Venus', 'Jupter'];
 console.log(Planets[0]);
